@@ -1,0 +1,5 @@
+﻿  2WaySetAssociativeCache.cpp
+f:\课程文件\dublin_dit\semester3\computer architecture3\report\2waysetassociativecache\2waysetassociativecache\2waysetassociativecache\2waysetassociativecache.cpp(91): warning C4244: “=”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+f:\课程文件\dublin_dit\semester3\computer architecture3\report\2waysetassociativecache\2waysetassociativecache\2waysetassociativecache\2waysetassociativecache.cpp(105): warning C4244: “=”: 从“unsigned short”转换到“unsigned char”，可能丢失数据
+  2WaySetAssociativeCache.vcxproj -> F:\课程文件\Dublin_DIT\Semester3\Computer Architecture3\report\2WaySetAssociativeCache\2WaySetAssociativeCache\Debug\2WaySetAssociativeCache.exe
+  2WaySetAssociativeCache.vcxproj -> F:\课程文件\Dublin_DIT\Semester3\Computer Architecture3\report\2WaySetAssociativeCache\2WaySetAssociativeCache\Debug\2WaySetAssociativeCache.pdb (Partial PDB)
